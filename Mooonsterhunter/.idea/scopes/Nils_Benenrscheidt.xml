@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Nils Benenrscheidt" pattern="NilsBennerscheist||file[Mooonsterhunter]:*||file[Mooonsterhunter]:.idea/*||file[Mooonsterhunter]:src/*||file[Mooonsterhunter]:src/Game/*||file:src/Game/daw.java||file:src/Game/Held.java||file:src/Game/Hexe.java||file:src/Game/Kampfregel.java||file:src/Game/Krieger.java||file:src/Game/MAin.java||file:src/Game/Monster.java||file:src/Game/Waffe.java||file:src/Game/Wurfel.java||file[Mooonsterhunter]:src/Üben/*||file:Mooonsterhunter.iml||file[Mooonsterhunter]:*/" />
+</component>

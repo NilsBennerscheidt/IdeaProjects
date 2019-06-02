@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2249e022-52b5-4d0b-8734-6d8d3f6d79d0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1236876132">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\nils\IdeaProjects\LOLOL</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/actions.java" />
+        <option value="$PROJECT_DIR$/src/chars/chars.java" />
+        <option value="$PROJECT_DIR$/src/chars/Playe.java" />
+        <option value="$PROJECT_DIR$/src/game/Star.java" />
+        <option value="$PROJECT_DIR$/src/actions/MouseMoved.java" />
+        <option value="$PROJECT_DIR$/src/actions/MouseDragged.java" />
+        <option value="$PROJECT_DIR$/src/game/Gamestate_e.java" />
+        <option value="$PROJECT_DIR$/src/game/Gamestate.java" />
+        <option value="$PROJECT_DIR$/src/actions/Keypressed.java" />
+        <option value="$PROJECT_DIR$/src/actions/KeyReleased.java" />
+        <option value="$PROJECT_DIR$/src/gui/IL.java" />
+        <option value="$PROJECT_DIR$/src/Data/CustomMath.java" />
+        <option value="$PROJECT_DIR$/src/actions/actions.java" />
+        <option value="$PROJECT_DIR$/src/actions/MouseReleased.java" />
+        <option value="$PROJECT_DIR$/src/clock/clocks/Star_Movement.java" />
+        <option value="$PROJECT_DIR$/src/clock/Player_Hit.java" />
+        <option value="$PROJECT_DIR$/src/clock/clocks/Player_Hit.java" />
+        <option value="$PROJECT_DIR$/src/actions/Collision.java" />
+        <option value="$PROJECT_DIR$/src/actions/MousePressed.java" />
+        <option value="$PROJECT_DIR$/src/clock/Asteriod_Movement.java" />
+        <option value="$PROJECT_DIR$/src/gui/Gui.java" />
+        <option value="$PROJECT_DIR$/src/actions/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock/Bullet_Movement.java" />
+        <option value="$PROJECT_DIR$/src/clock/GameLoop.java" />
+        <option value="$PROJECT_DIR$/src/clock/Mainclock.java" />
+        <option value="$PROJECT_DIR$/src/chars/Asteroid.java" />
+        <option value="$PROJECT_DIR$/src/chars/Player.java" />
+        <option value="$PROJECT_DIR$/src/clock/Bullet_Creation.java" />
+        <option value="$PROJECT_DIR$/src/clock/Star_Movement.java" />
+        <option value="$PROJECT_DIR$/src/clock/Asteroid_Collision.java" />
+        <option value="$PROJECT_DIR$/src/draw/Draw_Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="rsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="draw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitledijuij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LOLOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549276856097" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nils\IdeaProjects\LOLOL\src\clock" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chars" />
+      <recent name="actions" />
+      <recent name="gui" />
+      <recent name="draw" />
+      <recent name="clock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nils\IdeaProjects\LOLOL\rsc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="actions.Main" />
+      <module name="Pong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2249e022-52b5-4d0b-8734-6d8d3f6d79d0" name="Default" comment="" />
+      <created>1531294796023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531294796023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.12953092" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" visible="true" weight="0.32617587" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32924336" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/chars/chars.java" />
+    <entry file="file://$PROJECT_DIR$/src/chars/Playe.java" />
+    <entry file="file://$PROJECT_DIR$/Pong.iml" />
+    <entry file="file://$PROJECT_DIR$/src/game/Star.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/javafx-src.zip!/com/sun/javafx/tk/quantum/ViewPainter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/javafx-src.zip!/com/sun/javafx/sg/prism/NGCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="605" selection-start-line="605" selection-end-line="605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/javafx-src.zip!/com/sun/javafx/sg/prism/GrowableDataBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="562" selection-start-line="562" selection-end-line="562" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Gamestate_e.java" />
+    <entry file="file://$PROJECT_DIR$/src/game/Gamestate.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/IL.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/actions.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/Keypressed.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/KeyReleased.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/MouseDragged.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/MouseMoved.java" />
+    <entry file="file://$PROJECT_DIR$/src/chars/Bullet.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/MouseReleased.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Star_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Asteriod_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Asteroid_Collision.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Asteroid_Creation.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Bullet_Creation.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Bullet_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/GameLoop.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/clocks/Player_Hit.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Player_Hit.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Asteroid_Creation.java" />
+    <entry file="file://$PROJECT_DIR$/src/Data/CustomMath.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/MousePressed.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Asteriod_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/GameLoop.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Mainclock.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Asteroid_Collision.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Bullet_Creation.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Star_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/clock/Bullet_Movement.java" />
+    <entry file="file://$PROJECT_DIR$/src/actions/Collision.java" />
+    <entry file="file://$PROJECT_DIR$/src/chars/Asteroid.java" />
+    <entry file="file://$PROJECT_DIR$/src/chars/Player.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/Gui.java" />
+    <entry file="file://$PROJECT_DIR$/src/draw/Draw_Main.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
