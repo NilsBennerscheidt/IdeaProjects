@@ -39,7 +39,7 @@ import javafx.stage.Stage;
 
                 @Override
                 public void handle(ActionEvent event) {
-                    textField.copy();
+                    textField.getText() ;
                     a = textField.toString();
                     System.out.print(a);
                 }
