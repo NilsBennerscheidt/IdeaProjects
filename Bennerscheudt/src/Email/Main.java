@@ -1,4 +1,4 @@
-package Email;
+/*package Email;
 
 import Stack.EMail;
 
@@ -33,3 +33,4 @@ public class Main {
     }
 
 }
+*/

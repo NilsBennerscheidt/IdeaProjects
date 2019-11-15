@@ -4,9 +4,52 @@
     <bookmark url="file://$PROJECT_DIR$/src/Arrays/Lotto.java" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Just a simple commit to update my repository">
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" afterDir="false" />
+    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Adding a new package for a school project. This is specificly  for decryption">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bennerscheudt/Email/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bennerscheudt/Queue/Timon/Liste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bennerscheudt/Queue/Timon/ListenElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bennerscheudt/Queue/Timon/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/DieListe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/out/production/DieListe/EMail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/out/production/DieListe/Liste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/out/production/DieListe/ListenElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/out/production/DieListe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/EMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/Liste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/ListenElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/out/production/Queue/EMail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/out/production/Queue/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/out/production/Queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/out/production/Queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/EMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/Stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/out/production/Stack/EMail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/out/production/Stack/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/out/production/Stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/out/production/Stack/Stackstart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/EMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/Stackstart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Email/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Email/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test Evi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test Evi/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,26 +67,34 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Programmplan">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="104" selection-start-line="10" selection-start-column="104" selection-end-line="10" selection-end-column="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7786953">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Programmplan">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sotiralgorythmen/QuicksortBuchstaben.java" />
         <option value="$PROJECT_DIR$/src/de/bennerscheidt/classes/Ganzteil.java" />
         <option value="$PROJECT_DIR$/src/Bank.java" />
         <option value="$PROJECT_DIR$/Objektorientiert/src/Bank/Konto.java" />
@@ -91,7 +141,6 @@
         <option value="$PROJECT_DIR$/src/Email/EMail.java" />
         <option value="$PROJECT_DIR$/src/Queue/queue.java" />
         <option value="$PROJECT_DIR$/src/Queue/Main.java" />
-        <option value="$PROJECT_DIR$/src/Email/Main.java" />
         <option value="$PROJECT_DIR$/src/Email/ListenElement.java" />
         <option value="$PROJECT_DIR$/src/Queue/Timon/Main.java" />
         <option value="$PROJECT_DIR$/src/Queue/Queue/Postschalter.java" />
@@ -113,8 +162,10 @@
         <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/ListenElement.java" />
         <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/Liste.java" />
-        <option value="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" />
         <option value="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" />
+        <option value="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/EMail.java" />
+        <option value="$PROJECT_DIR$/src/Email/Main.java" />
+        <option value="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" />
       </list>
     </option>
   </component>
@@ -130,6 +181,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Verschlüsselung" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Production">
           <expand>
@@ -152,29 +232,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Verschlüsselung" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,20 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackStart">
-    <configuration name="Aufgaben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.bennerscheidt.classes.Aufgaben" />
-      <module name="Bennerscheudt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.bennerscheidt.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Vignere">
     <configuration name="Battleship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SpieleHustHust.Battleship" />
       <module name="Bennerscheudt" />
@@ -280,6 +324,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vignere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.Vignere" />
+      <module name="Bennerscheudt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Verschlüsselung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.Test.queue" />
       <module name="Bennerscheudt" />
@@ -294,20 +351,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lotto" />
-      <item itemvalue="Application.Aufgaben" />
       <item itemvalue="Application.Battleship" />
+      <item itemvalue="Application.Lotto" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StackStart" />
+      <item itemvalue="Application.Vignere" />
       <item itemvalue="Application.queue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vignere" />
         <item itemvalue="Application.StackStart" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Battleship" />
         <item itemvalue="Application.queue" />
-        <item itemvalue="Application.Aufgaben" />
       </list>
     </recent_temporary>
   </component>
@@ -329,14 +386,30 @@
       <option name="project" value="LOCAL" />
       <updated>1573636543476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding a new package for a school project. This is specificly  for decryption">
+      <created>1573637325955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573637325955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4951246" visible="true" weight="0.12953092" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951246" visible="true" weight="0.13059701" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,9 +421,9 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info active="true" anchor="bottom" id="TODO" order="5" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" internal_type="SLIDING" order="6" side_tool="true" type="SLIDING" weight="0.32998326" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32719395" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.16359697" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -362,13 +435,14 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" x="-85" y="503" width="2400" height="203" id="Run" order="9" sideWeight="0.5048754" side_tool="true" weight="0.5547046" />
+      <window_info anchor="right" x="-85" y="503" width="2400" height="203" id="Run" order="9" sideWeight="0.5048754" side_tool="true" weight="0.2238806" />
       <window_info anchor="right" id="Maven" order="10" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just a simple commit to update my repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just a simple commit to update my repository" />
+    <MESSAGE value="Adding a new package for a school project. This is specificly  for decryption" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a new package for a school project. This is specificly  for decryption" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,13 +459,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Arrays/ArrayLIsten.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sotiralgorythmen/QuicksortBuchstaben.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -485,7 +552,6 @@
     <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Entry.java" />
     <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/EMail.java" />
     <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Email/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Vergleichen/Bank.java" />
     <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/Aufgaben.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -576,17 +642,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
+    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/EMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="536">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Email/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#998#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Programmplan">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="104" selection-start-line="10" selection-start-column="104" selection-end-line="10" selection-end-column="104" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
         </state>
       </provider>
     </entry>
