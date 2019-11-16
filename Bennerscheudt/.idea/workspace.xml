@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Updating the decryption Programm">
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,16 +52,16 @@
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Queue" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Email" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Stack" />
       <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src" />
       <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Email" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Email" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Queue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,12 +77,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Vignere">
-    <configuration name="Battleship" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpieleHustHust.Battleship" />
+    <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SpieleHustHust.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.Main" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Verschlüsselung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +157,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lotto" />
-      <item itemvalue="Application.Battleship" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StackStart" />
       <item itemvalue="Application.Vignere" />
       <item itemvalue="Application.trash" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Vignere" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.trash" />
         <item itemvalue="Application.StackStart" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Battleship" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573841236123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updating the decryption Programm">
+      <created>1573897344281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573897344281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -253,11 +260,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
