@@ -2,19 +2,24 @@ package Verschlüsselung;
 
 public class Main {
     public static void main(String [] args){
-        String originalText ="hallowelt";
+        String originalText ="hallowelt".toUpperCase();
         char[] Klartext = originalText.toCharArray();
 
-        String schluessel = "Java";
+        String schluessel = "JavaJavaj".toUpperCase();
         char[] Schluessel = schluessel.toCharArray();
 
         String geheimText = "";
 
-        for (int i = 0, j = 0; i < originalText.length(); i++, j++){
+        for (int i = 0; i < originalText.length(); i++) {
 
-            if( j == schluessel.length()) j = 0;
+            // converting in range 0-25
+            int x = (originalText.charAt(i) + schluessel.charAt(i)) %26;
 
-            geheimText += (char)((Klartext[i] + Schluessel[i % Schluessel.length]-130)%26+65);
+            // convert into alphabets(ASCII)
+            x += 'A';
+
+            geheimText+=(char)(x);
+
 
         }
 
@@ -22,5 +27,23 @@ public class Main {
        // Vignere.EinfachIntputEntschlüsseln();
 
     }
+    public static String verschlüsseln(String KlarText, String schluessel){
 
+        String GeheimText = "";
+
+        for (int i = 0; i < KlarText.length(); i++) {
+
+            // In den Zahlenberich  0-25 umwandeln
+            int x = (KlarText.charAt(i) + schluessel.charAt(i)) %26;
+
+            // In Asccii zurückwandeln
+            x += 'A';
+
+            GeheimText+=(char)(x);
+
+        }
+        System.out.println(GeheimText);
+        return GeheimText;
+
+    }
 }

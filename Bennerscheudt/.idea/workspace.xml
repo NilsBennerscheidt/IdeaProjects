@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Updating the decryption Programm">
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Vignere">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
       <module name="Bennerscheudt" />
@@ -165,8 +164,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Vignere" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Vignere" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.trash" />
         <item itemvalue="Application.StackStart" />
@@ -219,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573897344281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updating the decryption Programm">
+      <created>1573914393662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573914393662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">

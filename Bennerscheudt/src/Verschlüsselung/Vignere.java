@@ -73,14 +73,12 @@ public class Vignere extends Application {
                 String[] KlartextAlsArray= textFieldKlartext.getText().trim().split(" ");  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
                     String KlartextOhneLeerzeichen = "";
                     for(int i = 0;i<KlartextAlsArray.length;i++) KlartextOhneLeerzeichen = KlartextOhneLeerzeichen + KlartextAlsArray[i].trim();
-                    char[] KT = KlartextOhneLeerzeichen.toCharArray();
 
                 String[] Schluessel=textFieldSchluessel.getText().toUpperCase().split(" ");
                     String SchluesselOhneLeerzeichen = "";
                     for(int i = 0;i<Schluessel.length;i++) SchluesselOhneLeerzeichen +=  Schluessel[i].trim();
-                    char[] S = SchluesselOhneLeerzeichen.toCharArray();
 
-                String Klartext = verschluesseln(KT, S);
+                String Klartext = verschluesseln(KlartextOhneLeerzeichen, SchluesselOhneLeerzeichen);
                 System.out.println(Klartext);
                 textFieldGeheimtext.setText(Klartext);
             }
@@ -121,19 +119,24 @@ public class Vignere extends Application {
         return NichtSoGeheimText;
     }
 
-    public static String verschluesseln (char[] Klartext,char[] Schluessel){
+    public static String verschluesseln(String KlarText, String schluessel){
 
-        String geheimText = "";
+        String GeheimText = "";
 
-        for (int i = 0, j = 0; i < Klartext.length; i++, j++){
+        for (int i = 0; i < KlarText.length(); i++) {
 
-            if( j == Schluessel.length) j = 0;
+            // In den Zahlenberich  0-25 umwandeln
+            int x = (KlarText.charAt(i) + schluessel.charAt(i)) %26;
 
-            geheimText += (char)((Klartext[i] + Schluessel[i % Schluessel.length]-130)%26+65);
+            // In Asccii zurückwandeln
+            x += 'A';
+
+            GeheimText+=(char)(x);
 
         }
+        System.out.println(GeheimText);
+        return GeheimText;
 
-        return geheimText;
     }
 
 }
