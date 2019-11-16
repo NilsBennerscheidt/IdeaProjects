@@ -6,39 +6,47 @@ import java.util.Arrays;
 public class Vignere {
     public static void main(String [] args){
 
-        String VeschlüsselterText= JOptionPane.showInputDialog("Füge bitte den verschlüsselten Text ein").trim();  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
-        String Schlüssel= JOptionPane.showInputDialog("Füge bitte den Schlüssel ein");
-            //TODO Hier wird anhand der Schlüssellänge der Text in 2D-Arrays eingfügt
-        String[] VeschlüsselterTextAlsArray = VeschlüsselterText.split(" ");
+        /*String VeschlüsselterText= JOptionPane.showInputDialog("Füge bitte den verschlüsselten Text ein").trim();  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
+        String Schlüssel= JOptionPane.showInputDialog("Füge bitte den Schlüssel ein");*/
+        String VeschluesselterText = "QAGLXWZLC";
+        String Schluessel = "Java";
+        String[] VeschlüsselterTextAlsArray = VeschluesselterText.split(" ");
         String VeschlüsselterTextOhneLeerzeichen = "";
 
 
-        char[] VT = new char[1];
+
 
         for(int i = 0;i<VeschlüsselterTextAlsArray.length;i++){
             VeschlüsselterTextOhneLeerzeichen = VeschlüsselterTextOhneLeerzeichen + VeschlüsselterTextAlsArray[i].trim();
 
         }
+        char[] VT = VeschlüsselterTextOhneLeerzeichen.toCharArray();
+        char[] S = Schluessel.toUpperCase().toCharArray();
 
-        char[] S = Schlüssel.toUpperCase().toCharArray();
-
-        System.out.println(VeschlüsselterTextOhneLeerzeichen);
-
-
-            //TODO Hier wird die Verschiebung/Entschlüsselung der einzelnden Buchstaben vollzogen
-
-
-
-            // TODO Hier wird der Text wieder zusammengefügt und Ausgegeben
+        System.out.println(entschluessle(VT, S));
 
         }
-        public static void entschluessle (char[] geheim, char[] Schlüssel) {
-            int n = geheim.length; int l = Schlüssel.length;
-            for (int i=0; i<geheim.length; i++, n++) {
-                if (geheim[i]>90) geheim[i] = (char) (geheim[i]-32);
-                int k = n % l;
-                geheim[i] = (char) (geheim[i] - Schlüssel[k]);
-                if (geheim[i] < 65) geheim[i] = (char) (geheim[i]+26);
+
+        public static String entschluessle (char[] geheim, char[] Schluessel) {
+            int[] GeheimAscciWerte = new int[geheim.length];
+            int[] SchluesselAscciWerte = new int[Schluessel.length];
+
+            for(int i = 0; i<GeheimAscciWerte.length ; i++){
+                GeheimAscciWerte[i] =  geheim[i];
             }
-    }
+            for(int i = 0; i<SchluesselAscciWerte.length ; i++){
+                SchluesselAscciWerte[i] =  Schluessel[i];
+            }
+
+            int n = GeheimAscciWerte.length; int l = SchluesselAscciWerte.length;
+            for (int i=0; i<GeheimAscciWerte.length; i++, n++) {
+
+            }
+            System.out.println(Arrays.toString(GeheimAscciWerte));
+            String FF = "";
+
+
+            System.out.println(FF);
+            return "jepp";
+        }
 }

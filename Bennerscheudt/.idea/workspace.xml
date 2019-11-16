@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Arrays/Lotto.java" line="26" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Updating the decryption Programm">
+      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,39 +20,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.83756346">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="595">
-                  <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Programmplan">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="91" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,128 +37,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/de/bennerscheidt/classes/Ganzteil.java" />
-        <option value="$PROJECT_DIR$/src/Bank.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Bank/Konto.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Bank/Main.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Bank/Kunde.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Datenzugriffe/Objekt.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Teniiiiiis/Tennisspieler.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Datenzugriffe/DieListe.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Teniiiiiis/MAIIIIIN.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Frisör/Main.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/DieLieste/ListenElement.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Teniiiiiis/Match.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/Datenzugriffe/Main.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/DieLieste/Email.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/DieLieste/Main.java" />
-        <option value="$PROJECT_DIR$/Objektorientiert/src/DieLieste/Liste.java" />
-        <option value="$PROJECT_DIR$/src/de/bennerscheidt/classes/Aufgaben.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Liste.java" />
-        <option value="$PROJECT_DIR$/src/Queue/ListenElement.java" />
-        <option value="$PROJECT_DIR$/src/Queue/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Queue/data.java" />
-        <option value="$PROJECT_DIR$/src/Queue/entry.java" />
-        <option value="$PROJECT_DIR$/src/Email/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Queue/queue.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Main.java" />
-        <option value="$PROJECT_DIR$/src/Email/ListenElement.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/Main.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Queue/Postschalter.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Test/queue.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Queue/Queue.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Taxiwarteschlange/Taxi.java" />
-        <option value="$PROJECT_DIR$/src/Stack/src/Email.java" />
-        <option value="$PROJECT_DIR$/src/Stack/src/Stack.java" />
-        <option value="$PROJECT_DIR$/src/Stack/Email.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/Liste.java" />
-        <option value="$PROJECT_DIR$/src/Spaß/Rennschnegge.java" />
-        <option value="$PROJECT_DIR$/src/Spaß/Main.java" />
-        <option value="$PROJECT_DIR$/src/Stack/Entry.java" />
-        <option value="$PROJECT_DIR$/src/Stack/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Stack/stack.java" />
-        <option value="$PROJECT_DIR$/src/Stack/StackStart.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/ListenElement.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Queue/Timon/DynamischDatenstrukturen/Liste/DieListe/src/Liste.java" />
-        <option value="$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/EMail.java" />
-        <option value="$PROJECT_DIR$/src/Email/Main.java" />
-        <option value="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" />
-        <option value="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1TfJHnTpZZ3pmDq6vQ0Mc8nTMrf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Production">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Bennerscheudt" type="cbb8eebc:String" user="Bennerscheudt" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Bennerscheudt" type="cbb8eebc:String" user="Bennerscheudt" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Bennerscheudt" type="cbb8eebc:String" user="Bennerscheudt" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="Sotiralgorythmen" type="cbb8eebc:String" user="Sotiralgorythmen" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Email" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bennerscheudt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bennerscheudt" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Verschlüsselung" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="entry&#9;FILE&#9;file://C:/Users/nils/IdeaProjects/Bennerscheudt/src/Queue/Test/Entry.java&#10;front()&#9;PSI&#9;JAVA://com.sun.org.apache.xml.internal.dtm.ref.DTMDefaultBaseTraversers.AllFromNodeTraverser&#10;consol&#9;PSI&#9;JAVA://java.io.Console" />
@@ -298,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Test.queue" />
+    <configuration name="trash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.trash" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.Test.*" />
+          <option name="PATTERN" value="Verschlüsselung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,20 +156,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Battleship" />
       <item itemvalue="Application.Lotto" />
+      <item itemvalue="Application.Battleship" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StackStart" />
       <item itemvalue="Application.Vignere" />
-      <item itemvalue="Application.queue" />
+      <item itemvalue="Application.trash" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Vignere" />
+        <item itemvalue="Application.trash" />
         <item itemvalue="Application.StackStart" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Battleship" />
-        <item itemvalue="Application.queue" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573813298617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updating the decryption Programm">
+      <created>1573841236123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573841236123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -373,39 +224,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="976" height="1056" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951246" visible="true" weight="0.13864629" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49833333" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39869988" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" internal_type="SLIDING" order="6" side_tool="true" type="SLIDING" weight="0.32998326" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.16359697" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" x="-85" y="503" width="2400" height="203" id="Run" order="9" sideWeight="0.5048754" side_tool="true" weight="0.2238806" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just a simple commit to update my repository" />
@@ -424,221 +254,13 @@
           </properties>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sotiralgorythmen/QuicksortBuchstaben.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpieleHustHust/SchereSteinPapier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3077">
-          <caret line="190" column="5" selection-start-line="181" selection-start-column="2" selection-end-line="190" selection-end-column="5" />
-          <folding>
-            <element signature="method#Putze#0;class#SchereSteinPapier#0" />
-            <element signature="method#Game#0;class#SchereSteinPapier#0" />
-            <element signature="method#Start#0;class#SchereSteinPapier#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpieleHustHust/SchiffeVersenken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/entry.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/data.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/queue.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/Queue/Postschalter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/Queue/Queue.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xml/internal/dtm/ref/DTMDefaultBaseTraversers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="796" column="16" selection-start-line="796" selection-start-column="16" selection-end-line="796" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpieleHustHust/Battleship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="32" selection-start-line="32" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Email/Liste.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stack/src/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/Timon/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/Timon/ListenElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Email/ListenElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Spaß/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Spaß/Rennschnegge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Timon/Liste.java" />
-    <entry file="file://$PROJECT_DIR$/src/Email/EMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stack/Entry.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stack/StackStart.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stack/stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Stack/EMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/EMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/Liste.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Liste/DieListe/src/ListenElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Queue/Test/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Test/Email.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Queue.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Entry.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/EMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Schlange/Queue/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Vergleichen/Bank.java" />
-    <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/Aufgaben.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sotiralgorythmen/Strukturprogrammierung.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vergleichen/czusadgefuksfjshduikv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Taxiwarteschlange/Taxi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Test/queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Lotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="58" column="69" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#Treffen#0;class#Lotto#0" />
-            <element signature="method#Süperzühl#0;class#Lotto#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Durchschnitt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sotiralgorythmen/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-777">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/Ganzteil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/bennerscheidt/classes/Übungen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamischDatenstrukturen/Stackk/Stack/src/EMail.java" />
-    <entry file="file://$PROJECT_DIR$/src/Email/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#998#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Programmplan">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="91" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Verschlüsselung/Vignere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
