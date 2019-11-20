@@ -10,10 +10,9 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
-import javax.swing.*;
-
 public class Vignere extends Application {
-   /* public static void EinfachIntputEntschlüsseln(){
+
+    /* public static void EinfachIntputEntschlüsseln(){
 
         String[] VeschlüsselterTextAlsArray= JOptionPane.showInputDialog("Füge bitte den verschlüsselten Text ein").trim().split(" ");  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
         String VeschlüsselterTextOhneLeerzeichen = "";
@@ -27,46 +26,50 @@ public class Vignere extends Application {
 
     public void start (Stage primaryStage){
         TextField textFieldGeheimtext = new TextField("Geheimtext");
-        textFieldGeheimtext.setMinWidth(180);
+            textFieldGeheimtext.setMinWidth(180);
         TextField textFieldSchluessel = new TextField("Schuessel");
-        textFieldSchluessel.setMinWidth(180);
+            textFieldSchluessel.setMinWidth(180);
         TextField textFieldKlartext = new TextField("Klartext");
-        textFieldKlartext.setMinWidth(180);
+            textFieldKlartext.setMinWidth(180);
 
         Button buttonCut = new Button("Entschlüsseln");
         buttonCut.setFocusTraversable(false);
-        buttonCut.setOnAction(new EventHandler<ActionEvent>() {
+        buttonCut.setOnAction(
+            new EventHandler<ActionEvent>() {
 
-            @Override
-            public void handle(ActionEvent event) {
+                @Override
+                public void handle(ActionEvent event) {
 
-                String VeschluesselterTextOhneLeerzeichen = textFieldGeheimtext.getText().replace(" ","") ;
+                    String VeschluesselterTextOhneLeerzeichen = textFieldGeheimtext.getText().replace(" ","") ;
 
-                String SchluesselOhneLeerzeichen =textFieldSchluessel.getText().toUpperCase().replace(" ","");
+                    String SchluesselOhneLeerzeichen =textFieldSchluessel.getText().toUpperCase().replace(" ","");
 
-                String Klartext = entschluesslen(VeschluesselterTextOhneLeerzeichen, SchluesselOhneLeerzeichen);
-                System.out.println(Klartext);
-                textFieldKlartext.setText(Klartext);
+                    String Klartext = entschluesslen(VeschluesselterTextOhneLeerzeichen, SchluesselOhneLeerzeichen);
+                    System.out.println(Klartext);
+                    textFieldKlartext.setText(Klartext);
+                }
             }
-        });
+        );
 
         // Paste
         Button buttonPaste = new Button("Verschlüsseln");
         buttonPaste.setFocusTraversable(false);
-        buttonPaste.setOnAction(new EventHandler<ActionEvent>() {
+        buttonPaste.setOnAction(
+            new EventHandler<ActionEvent>() {
 
-            @Override
-            public void handle(ActionEvent event) {
+                @Override
+                public void handle(ActionEvent event) {
 
-                String KlartextOhneLeerzeichen =  textFieldKlartext.getText().replace(" ","").toUpperCase();  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
+                    String KlartextOhneLeerzeichen = textFieldKlartext.getText().replace(" ", "").toUpperCase();  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
 
-                String SchluesselOhneLeerzeichen = textFieldSchluessel.getText().replace(" ", "").toUpperCase();
+                    String SchluesselOhneLeerzeichen = textFieldSchluessel.getText().replace(" ", "").toUpperCase();
 
-                String Klartext = verschluesseln(KlartextOhneLeerzeichen, SchluesselOhneLeerzeichen);
-                System.out.println(Klartext);
-                textFieldGeheimtext.setText(Klartext);
+                    String Klartext = verschluesseln(KlartextOhneLeerzeichen, SchluesselOhneLeerzeichen);
+                    System.out.println(Klartext);
+                    textFieldGeheimtext.setText(Klartext);
+                }
             }
-        });
+        );
 
         FlowPane root = new FlowPane();
         root.setPadding(new Insets(10));

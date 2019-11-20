@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Updating the decryption Programm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test Evi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test Evi/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573914393662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating the decryption Programm">
+      <created>1574248740168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574248740169</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
