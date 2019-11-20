@@ -2,48 +2,35 @@ package Verschlüsselung;
 
 public class Main {
     public static void main(String [] args){
-        String originalText ="hallowelt".toUpperCase();
-        char[] Klartext = originalText.toCharArray();
 
-        String schluessel = "JavaJavaj".toUpperCase();
-        char[] Schluessel = schluessel.toCharArray();
+        String GeheimText ="QEGLX WJRUD".toUpperCase();
 
-        String geheimText = "";
+        String Klartext = "helloworld".toUpperCase();
 
-        for (int i = 0; i < originalText.length(); i++) {
+        String Schluessel = "Java".toUpperCase();
 
-            // converting in range 0-25
-            int x = (originalText.charAt(i) + schluessel.charAt(i)) %26;
-
-            // convert into alphabets(ASCII)
-            x += 'A';
-
-            geheimText+=(char)(x);
+        String NichtSoGeheimText =  ENTSCHLUESSELN(GeheimText, Schluessel);
 
 
-        }
-
-        System.out.println(geheimText);
+        System.out.println(NichtSoGeheimText);
        // Vignere.EinfachIntputEntschlüsseln();
 
     }
-    public static String verschlüsseln(String KlarText, String schluessel){
+    public static String ENTSCHLUESSELN(String GeheimText, String Schluessel){
 
-        String GeheimText = "";
+        String KlarText = "";
 
-        for (int i = 0; i < KlarText.length(); i++) {
+        for (int i = 0; i < GeheimText.length(); i++) {
 
             // In den Zahlenberich  0-25 umwandeln
-            int x = (KlarText.charAt(i) + schluessel.charAt(i)) %26;
+            char x = (char) ((char) (GeheimText.charAt(i) % Schluessel.charAt(i%Schluessel.length()))+65);
 
-            // In Asccii zurückwandeln
-            x += 'A';
 
-            GeheimText+=(char)(x);
+            KlarText+=x;
 
         }
-        System.out.println(GeheimText);
-        return GeheimText;
+        System.out.println(KlarText);
+        return KlarText;
 
     }
 }

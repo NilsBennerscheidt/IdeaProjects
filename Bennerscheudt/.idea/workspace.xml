@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/trash.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Vignere">
     <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
       <module name="Bennerscheudt" />
@@ -164,8 +165,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Vignere" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.trash" />
         <item itemvalue="Application.StackStart" />
