@@ -1,17 +1,14 @@
 package Verschlüsselung;
 
 import javafx.application.Application;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
+import javafx.event.*;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
 public class Vignere extends Application {
-
     /* public static void EinfachIntputEntschlüsseln(){
 
         String[] VeschlüsselterTextAlsArray= JOptionPane.showInputDialog("Füge bitte den verschlüsselten Text ein").trim().split(" ");  //Hier werden der Schlüssel und der Text via Pop-up Fenster eingegeben
