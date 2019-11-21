@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Verschlüsselung.Main">
+   <children>
+      <Button layoutX="29.0" layoutY="175.0" mnemonicParsing="false" onAction="#Entschluesseln" text="Entschlüsseln" />
+      <Button layoutX="124.0" layoutY="175.0" mnemonicParsing="false" onAction="#Verschluesseln" text="Verschluesseln" />
+      <Button layoutX="223.0" layoutY="175.0" mnemonicParsing="false" onAction="#Beenden" text="Beenden" />
+
+      <TextField fx:id="Geheimtext" layoutX="50.0" layoutY="65.0" prefHeight="25.0" prefWidth="200.0" promptText="Geheimtext" />
+      <TextField fx:id="Klartext" layoutX="50.0" layoutY="100.0" prefHeight="25.0" prefWidth="200.0" promptText="Klartext" />
+      <TextField fx:id="Schlüssel" layoutX="50.0" layoutY="135.0" prefHeight="25.0" prefWidth="200.0" promptText="Schüssel" />
+
+   </children>
+</AnchorPane>

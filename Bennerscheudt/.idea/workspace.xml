@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Updating the decryption Programm">
+    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Nils.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vigenere Erklaerung" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +31,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -73,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Vignere">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
       <module name="Bennerscheudt" />
@@ -162,8 +171,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Vignere" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Vignere" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.trash" />
         <item itemvalue="Application.StackStart" />
@@ -237,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574252026079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation">
+      <created>1574252503337</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574252503337</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -266,7 +282,8 @@
     <MESSAGE value="Just a simple commit to update my repository" />
     <MESSAGE value="Adding a new package for a school project. This is specificly  for decryption" />
     <MESSAGE value="Updating the decryption Programm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating the decryption Programm" />
+    <MESSAGE value="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
