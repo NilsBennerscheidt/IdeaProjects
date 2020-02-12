@@ -2,7 +2,7 @@
 
 import Stack.EMail;
 
-public class Main {
+public class VigenereGui2 {
 
     public static void main(String[] args) {
 

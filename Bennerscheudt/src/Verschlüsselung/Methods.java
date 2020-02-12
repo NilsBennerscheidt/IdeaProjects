@@ -6,11 +6,14 @@ public class Methods {
         String KlarText = "";
 
         for (int i = 0; i < GeheimText.length(); i++) {
+            System.out.println(KlarText);
 
-            // In den Zahlenberich  0-25 umwandeln
-            char x = (char) ((char) (GeheimText.charAt(i) % Schluessel.charAt(i%Schluessel.length()))+65);
+            char x= (char) ((char) (GeheimText.charAt(i) % Schluessel.charAt(i%Schluessel.length()))+65) ;
+            System.out.println(KlarText);
 
-            KlarText+=x;
+           // x += 'A';
+
+             KlarText+=x;
 
         }
         System.out.println(KlarText);
@@ -30,7 +33,7 @@ public class Methods {
             // In Asccii zurückwandeln
             x += 'A';
 
-            GeheimText+=(char)x;
+            GeheimText+=x;
 
         }
         System.out.println(GeheimText);

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Nils.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vigenere Erklaerung" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Verschlüsselung/sample.fxml" afterDir="false" />
+    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Adding a new GUI version wich is using 'fxml' to reduce the required code.">
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Mitarbeiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Programmplan" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Email/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Email/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/VigenereGui2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vigenere Erklaerung" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/VignereGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/ViginerGui2.fxml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,6 +45,11 @@
   </component>
   <component name="ProjectId" id="1TfJHnTpZZ3pmDq6vQ0Mc8nTMrf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="entry&#9;FILE&#9;file://C:/Users/nils/IdeaProjects/Bennerscheudt/src/Queue/Test/Entry.java&#10;front()&#9;PSI&#9;JAVA://com.sun.org.apache.xml.internal.dtm.ref.DTMDefaultBaseTraversers.AllFromNodeTraverser&#10;consol&#9;PSI&#9;JAVA://java.io.Console" />
@@ -70,18 +75,6 @@
       <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Queue" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
@@ -97,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.Main" />
+      <option name="MAIN_CLASS_NAME" value="Fahrradtouren.Main" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Verschlüsselung.*" />
+          <option name="PATTERN" value="Fahrradtouren.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,21 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.StackStart" />
-      <module name="Bennerscheudt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vignere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.Vignere" />
+    <configuration name="TEst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.TEst" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
@@ -148,8 +128,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.trash" />
+    <configuration name="VigenereGui2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.VigenereGui2" />
+      <module name="Bennerscheudt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Verschlüsselung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VignereGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verschlüsselung.VignereGUI" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
@@ -163,19 +156,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lotto" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StackStart" />
-      <item itemvalue="Application.Vignere" />
-      <item itemvalue="Application.trash" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TEst" />
+      <item itemvalue="Application.VigenereGui2" />
+      <item itemvalue="Application.VignereGUI" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Vignere" />
+        <item itemvalue="Application.VigenereGui2" />
+        <item itemvalue="Application.VignereGUI" />
+        <item itemvalue="Application.TEst" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.trash" />
-        <item itemvalue="Application.StackStart" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574252503337</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adding a new GUI version wich is using 'fxml' to reduce the required code.">
+      <created>1574370715772</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574370715772</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -283,7 +283,26 @@
     <MESSAGE value="Adding a new package for a school project. This is specificly  for decryption" />
     <MESSAGE value="Updating the decryption Programm" />
     <MESSAGE value="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation" />
+    <MESSAGE value="Adding a new GUI version wich is using 'fxml' to reduce the required code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a new GUI version wich is using 'fxml' to reduce the required code." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="275" height="571" key="GridCell.Tab.0.bottom" timestamp="1581490194068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="275" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
+    <state width="275" height="571" key="GridCell.Tab.0.center" timestamp="1581490194068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="275" height="571" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
+    <state width="275" height="571" key="GridCell.Tab.0.left" timestamp="1581490194068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="275" height="571" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
+    <state width="275" height="571" key="GridCell.Tab.0.right" timestamp="1581490194068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="275" height="571" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,6 +314,21 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Verschlüsselung/Methods.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Verschlüsselung/Methods.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Verschlüsselung/Methods.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

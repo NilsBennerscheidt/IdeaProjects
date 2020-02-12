@@ -11,32 +11,21 @@ import javafx.stage.Stage;
 
 
 
-public class Vignere extends Application {
+public class VignereGUI extends Application {
 
        public void start (Stage primaryStage){
         Text textGeheimtext = new Text(" Geheimtext:  ");
         TextField textFieldGeheimtext = new TextField("");
-            textFieldGeheimtext.textProperty().addListener((observable, oldvalue, newValue)->{
-              if(!newValue.matches("\\sa-zA-Z")){
-                  textFieldGeheimtext.setText(newValue.replaceAll("\\sa-zA-Z",""));
-              }
-            });
+            textFieldGeheimtext.textProperty();
 
            Text textSchuessel = new Text("Schluessel:  ");
            TextField textFieldSchluessel = new TextField("");
-            textFieldSchluessel.textProperty().addListener((observable, oldvalue, newValue)->{
-            if(!newValue.matches("\\sa-zA-Z")){
-                textFieldSchluessel.setText(newValue.replaceAll("\\sa-zA-Z",""));
-            }
-        });
+            textFieldSchluessel.textProperty();
+
 
         Text textKlartext = new Text("Klartext: ");
         TextField textFieldKlartext = new TextField("");
-        textFieldKlartext.textProperty().addListener((observable, oldvalue, newValue)->{
-                if(!newValue.matches("\\sa-zA-Z")){
-                    textFieldKlartext.setText(newValue.replaceAll("\\sa-zA-Z",""));
-                }
-            });;
+        textFieldKlartext.textProperty();
 
         Button Entschuesseln = new Button("Entschlüsseln");
         Entschuesseln.setFocusTraversable(false);
@@ -46,7 +35,7 @@ public class Vignere extends Application {
                 @Override
                 public void handle(ActionEvent event) {
 
-                    String VeschluesselterTextOhneLeerzeichen = textFieldGeheimtext.getText().replace(" ","") ;
+                    String VeschluesselterTextOhneLeerzeichen = textFieldGeheimtext.getText().toUpperCase().replace(" ","") ;
 
                     String SchluesselOhneLeerzeichen =textFieldSchluessel.getText().toUpperCase().replace(" ","");
 
@@ -76,24 +65,12 @@ public class Vignere extends Application {
             }
         );
 
-           Button beenden = new Button("Beenden");
-           Verschluesseln.setFocusTraversable(false);
-           Verschluesseln.setOnAction(
-                   new EventHandler<ActionEvent>() {
-
-                       @Override
-                       public void handle(ActionEvent event) {
-                           System.out.println("Ciao");
-                           System.exit(1);
-                       }
-                   }
-           );
         FlowPane root = new FlowPane();
         root.setPadding(new Insets(10));
         root.setVgap(5);
         root.setHgap(5);
 
-        root.getChildren().addAll(textSchuessel,textFieldSchluessel,textGeheimtext,textFieldGeheimtext,textKlartext,textFieldKlartext, Entschuesseln, Verschluesseln, beenden);
+        root.getChildren().addAll(textSchuessel,textFieldSchluessel,textGeheimtext,textFieldGeheimtext,textKlartext,textFieldKlartext, Entschuesseln, Verschluesseln);
 
         Scene scene = new Scene(root, 280, 150);
 
