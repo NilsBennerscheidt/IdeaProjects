@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Adding a new GUI version wich is using 'fxml' to reduce the required code.">
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Mitarbeiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Person.java" afterDir="false" />
+    <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Aufgaben zur Abiturvorbereitung.">
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Buchungen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Email/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Email/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/VigenereGui2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vigenere Erklaerung" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/Vignere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/VignereGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Verschlüsselung/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verschlüsselung/ViginerGui2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Informatik 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Informatik 1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1TfJHnTpZZ3pmDq6vQ0Mc8nTMrf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,16 +59,19 @@
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Stack" />
-      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src" />
-      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Email" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Queue" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Fahrradtouren" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Email" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Queue" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Stack" />
+      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src" />
+      <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Email" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -253,17 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1574370715772</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Aufgaben zur Abiturvorbereitung.">
+      <created>1581491863137</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581491863137</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -284,9 +281,18 @@
     <MESSAGE value="Updating the decryption Programm" />
     <MESSAGE value="This is the final commit and push in wich the code is renewed. The next push won't contain any new code, only documentation" />
     <MESSAGE value="Adding a new GUI version wich is using 'fxml' to reduce the required code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding a new GUI version wich is using 'fxml' to reduce the required code." />
+    <MESSAGE value="Aufgaben zur Abiturvorbereitung." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgaben zur Abiturvorbereitung." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581590476423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581590476423" />
+    <state x="545" y="118" key="CommitChangelistDialog2" timestamp="1581491915668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581491915668" />
     <state width="275" height="571" key="GridCell.Tab.0.bottom" timestamp="1581490194068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -303,6 +309,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="275" height="571" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581593072422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581593072422" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
