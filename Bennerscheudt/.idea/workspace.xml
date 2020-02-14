@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efa3f11c-9455-49fd-95c7-024e6b4b4fae" name="Default" comment="Aufgaben zur Abiturvorbereitung.">
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Buchungen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fahrradtouren/Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Informatik 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Informatik 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fahrradtouren/Buchungen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fahrradtouren/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fahrradtouren/Methods.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <recent name="C:\Users\nils\IdeaProjects\Bennerscheudt\src\Email" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Lotto" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Lotto" />
       <module name="Bennerscheudt" />
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spaß.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sotiralgorythmen.Main" />
       <module name="Bennerscheudt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Spaß.*" />
+          <option name="PATTERN" value="Sotiralgorythmen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,19 +154,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lotto" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.TEst" />
-      <item itemvalue="Application.VigenereGui2" />
       <item itemvalue="Application.VignereGUI" />
+      <item itemvalue="Application.VigenereGui2" />
+      <item itemvalue="Application.TEst" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.VigenereGui2" />
         <item itemvalue="Application.VignereGUI" />
         <item itemvalue="Application.TEst" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581491863137</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Aufgaben zur Abiturvorbereitung.">
+      <created>1581593091995</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581593091995</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,34 +291,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Aufgaben zur Abiturvorbereitung." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1581593320528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581593320528" />
     <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581590476423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581590476423" />
-    <state x="545" y="118" key="CommitChangelistDialog2" timestamp="1581491915668">
+    <state x="545" y="118" key="CommitChangelistDialog2" timestamp="1581593089944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="545" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581491915668" />
-    <state width="275" height="571" key="GridCell.Tab.0.bottom" timestamp="1581490194068">
+    <state x="545" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581593089944" />
+    <state width="385" height="912" key="GridCell.Tab.0.bottom" timestamp="1581593943505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="275" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
-    <state width="275" height="571" key="GridCell.Tab.0.center" timestamp="1581490194068">
+    <state width="385" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581593943505" />
+    <state width="385" height="912" key="GridCell.Tab.0.center" timestamp="1581593943505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="275" height="571" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
-    <state width="275" height="571" key="GridCell.Tab.0.left" timestamp="1581490194068">
+    <state width="385" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581593943505" />
+    <state width="385" height="912" key="GridCell.Tab.0.left" timestamp="1581593943505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="275" height="571" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
-    <state width="275" height="571" key="GridCell.Tab.0.right" timestamp="1581490194068">
+    <state width="385" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581593943505" />
+    <state width="385" height="912" key="GridCell.Tab.0.right" timestamp="1581593943505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="275" height="571" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490194068" />
-    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581593072422">
+    <state width="385" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581593943505" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1581593093779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581593072422" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581593093779" />
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581669020216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581669020216" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
